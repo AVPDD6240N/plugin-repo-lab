@@ -1,6 +1,6 @@
 [
   {
     "name": "Sample Plugin",
-    "entry": "./plugins/sample-plugin/plugin.js"
+    "entry": "./plugins/nipunika-plugin/plugin.js"
   }
 ]
